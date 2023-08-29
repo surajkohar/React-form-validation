@@ -1,0 +1,73 @@
+.form1{
+  /* box-sizing: border-box; */
+  /* margin-top: 20%; */
+  
+  width:50%;
+  background-color: rgb(241, 231, 219);
+  /* border: 2px solid red; */
+  /* margin-left: 30%;
+  margin-top:5%px; */
+  margin: auto;
+  padding: 1rem;
+
+}
+form{
+  margin-top:3%;
+}
+
+#field{
+  /* border: 2px solid yellow; */
+width:4rem;
+padding: 1rem;
+/* margin-right: 2rem; */
+}
+.firstName{
+  margin-left: 1rem;
+}
+.lname{
+  margin-left: 1rem;
+}
+.gender{
+  margin-left: 2.2rem;
+}
+.dob{
+margin-right:0.8rem ;
+}
+.phone{
+margin-left:1.2rem ;
+}
+.email{
+  margin-left: 2.7rem;
+}
+.password{
+  margin-left: 1rem;
+}
+input{
+
+  /* float: right; */
+  background-color: rgb(209, 248, 236);
+}
+
+.btn{
+  /* margin-top: 10 rem; */
+  margin-left: 1.6rem;
+  /* block-size: 1.5rem; */
+  border-radius: 2px solid;
+  color: green;
+  
+}
+
+select{
+  background-color:rgb(209, 248, 236);
+}
+
+.emailValidation{
+  margin-left: 13%;
+  margin-bottom:50%;
+  padding-bottom:10px;
+  color: red;
+}
+
+.bottom{
+  margin-left: 30%;
+}
